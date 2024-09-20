@@ -24,6 +24,6 @@ The **BMI Calculator** is a straightforward web application designed to calculat
 
 Here’s a sneak peek of the BMI Calculator in action:
 
-![BMI CALCULATOR]()
+![BMI CALCULATOR](https://github.com/eshaagarwa/BMI-calculator/blob/main/bmi%20calculator.png)
 
 Enjoy using the BMI Calculator! 🎉 Feel free to share your feedback or contribute to the project by making a pull request. Happy calculating! 📊
